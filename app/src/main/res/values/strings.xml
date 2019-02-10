@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Class Registration</string>
+
+    <string name="filterHeader">Filter</string>
+    <string name="lblSubject">Subject :</string>
+    <string name="lblLevel">Level :</string>
+    <string name="lblStartTimeSpinner">Start Time</string>
+    <string name="lblEndTimeSpinner">End Time</string>
+    <string name="apply">Apply</string>
+    <string name="subjectspinnertext">text</string>
+    <string name="list_of_course_s_added">List Of Course(s) Added</string>
+    <string name="waitlist_course_s">WaitList Course(s)</string>
+    <string name="add_course_s">Add Course(s)</string>
+    <string name="reset">Reset</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="red_id">RED ID</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="add_new">Add New</string>
+    <string name="course_details">Course Details</string>
+    <string name="department">Department :</string>
+    <string name="description">Description :</string>
+    <string name="title">Title :</string>
+    <string name="building">Building :</string>
+    <string name="days">Days :</string>
+    <string name="start_time">Start Time :</string>
+    <string name="end_time">End Time :</string>
+    <string name="seats">Seats :</string>
+    <string name="enrolled">Enrolled :</string>
+    <string name="waitlist">WaitList :</string>
+    <string name="units">Units :</string>
+    <string name="add_course">Add Course</string>
+    <string name="add_to_waitlist">Add to Waitlist</string>
+    <string name="add">Add</string>
+    <string name="course">Course :</string>
+    <string name="instructor">Instructor :</string>
+    <string name="time">Time :</string>
+    <string name="seats_available">Seats Available :</string>
+    <string name="txtwaitlist">Waitlist :</string>
+    <string name="remove">Remove</string>
+    <string name="proceed">Proceed</string>
+
+    <string-array name="levelArray">
+            <item>Select</item>
+            <item>Lower</item>
+            <item>Upper</item>
+            <item>Graduate</item>
+        </string-array>
+</resources>
